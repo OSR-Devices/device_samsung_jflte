@@ -5,9 +5,14 @@
     "branch": "kk4.4"
   },
   {
-    "repository": "CyanogenMod/android_kernel_samsung_jf",
+    "repository": "OSR-Devices/device_samsung_jf-common",
+    "target_path": "device/samsung/jf-common",
+    "branch": "kk4.4"
+  },
+  {
+    "repository": "SlimRoms/kernel_samsung_jf",
     "target_path": "kernel/samsung/jf",
-    "branch": "cm-11.0"
+    "branch": "kk4.4"
   },
   {
     "repository": "SlimRoms/hardware_qcom_display-caf",
